@@ -2,7 +2,7 @@
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, Run:
 ### `npm i`
 This installs all the dependencies
 
